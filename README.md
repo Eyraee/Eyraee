@@ -10,7 +10,7 @@
 - 💻 I specialize in **Web Development** and **C Programming**.
 - 🎨 I bridge the gap between code and design as a **Freelance Digital Artist**, building bespoke portfolio websites and custom digital assets.
 - ⛏️ I also actively develop custom Minecraft addons, port Bedrock textures, and create assets.
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **contact.tusharshah@gmail.com**
 - 🌐 Check out my main portfolio: [Eyrae-portfolio.netlify.app](https://eyrae-portfolio.netlify.app)
 - 🖌️ View my digital art commissions: [eyrae-art.netlify.app](https://eyrae-art.netlify.app)
 
