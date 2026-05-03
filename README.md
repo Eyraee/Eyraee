@@ -1,8 +1,12 @@
-# Hi there, I'm Tushar Shah 👋
+<h1 align="center">Hi there, I'm Tushar Shah 👋</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Workspace&fontSize=50&fontAlignY=38" />
+ <img width="1440" height="360" alt="pixel art banner" src="https://github.com/user-attachments/assets/9897f1b0-f62f-4288-b671-42e422481292" />
+  <br>
+  <p><small>✨ Pixel art & banner handcrafted by Me :) ✨</small></p>
 </div>
+
+
 
 ## 👨‍💻 About Me
 
