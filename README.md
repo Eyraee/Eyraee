@@ -15,8 +15,8 @@
 - 🎨 I bridge the gap between code and design as a **Freelance Digital Artist**, building bespoke portfolio websites and custom digital assets.
 - ⛏️ I also actively develop custom Minecraft addons, port Bedrock textures, and create assets.
 - 📫 How to reach me: **contact.tusharshah@gmail.com**
-- 🌐 Check out my main portfolio: [Eyrae-portfolio.netlify.app](https://eyrae-portfolio.netlify.app)
-- 🖌️ View my digital art commissions: [eyrae-art.netlify.app](https://eyrae-art.netlify.app)
+- 🌐 Check out my main portfolio: [Eyrae-portfolio](https://eyrae.in)
+- 🖌️ View my digital art commissions: [eyrae-art](https://art.eyrae.in)
 
 ## 🛠️ Tech Stack & Tools
 
